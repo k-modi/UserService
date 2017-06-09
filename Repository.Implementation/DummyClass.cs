@@ -3,7 +3,7 @@ namespace Repository.Implementation
 {
     public class DummyClass
     {
-        public DummyClass()
+        public DummyClass(string something)
         {
         }
     }
