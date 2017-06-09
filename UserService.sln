@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\UserService.csproj", "{978084CC-393A-4A55-A55C-B0B97047D503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.Implementation", "Repository.Implementation\Repository.Implementation.csproj", "{0341A369-64D4-4618-A4E5-B7EBA1DBAD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978084CC-393A-4A55-A55C-B0B97047D503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978084CC-393A-4A55-A55C-B0B97047D503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978084CC-393A-4A55-A55C-B0B97047D503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978084CC-393A-4A55-A55C-B0B97047D503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0341A369-64D4-4618-A4E5-B7EBA1DBAD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0341A369-64D4-4618-A4E5-B7EBA1DBAD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0341A369-64D4-4618-A4E5-B7EBA1DBAD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0341A369-64D4-4618-A4E5-B7EBA1DBAD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-json
+		$0.JSONFormattingPolicy = $6
+		$6.AutoStructureCompletion = True
+		$6.BracePositions = SemiExpanded
+		$6.FormatOnPaste = True
+		$6.scope = text/x-json
+		$0.StandardHeader = $7
+		$0.VersionControlPolicy = $8
+	EndGlobalSection
+EndGlobal
